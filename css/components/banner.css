@@ -1,0 +1,17 @@
+.banner {
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+    color: white;
+    }
+.banner p{
+  color: rgb(192,210,219);
+  font-size: 20px;
+}
+.btn-green {
+    color: white;
+    background: rgb(29,221,136);
+    padding: 16px 36px;
+    border-radius: 50px;
+    display: inline-block;
+  }
